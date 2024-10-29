@@ -1,0 +1,3 @@
+/Users/ivannacontreras/Desktop/AutomaticContentRecognition/build/CMakeFiles/AutomaticContentRecognition.dir
+/Users/ivannacontreras/Desktop/AutomaticContentRecognition/build/CMakeFiles/edit_cache.dir
+/Users/ivannacontreras/Desktop/AutomaticContentRecognition/build/CMakeFiles/rebuild_cache.dir
